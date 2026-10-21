@@ -1,0 +1,17 @@
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\CacheEntry.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\CacheKey.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\CacheMetrics.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\CachePolicy.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ClientHandler.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\HttpCache.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\HttpRequest.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\HttpRequestParser.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\HttpResponse.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\HttpResponseParser.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\OriginServerClient.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ProxyApplication.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ProxyConfig.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ProxyException.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ProxyLogger.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\ProxyServer.java
+C:\Users\ELCOT\Desktop\http-cache-proxy\src\main\java\com\example\proxy\RequestCoordinator.java

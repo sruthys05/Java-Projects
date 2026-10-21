@@ -1,0 +1,17 @@
+com\example\proxy\CacheMetrics.class
+com\example\proxy\ProxyLogger.class
+com\example\proxy\CacheEntry.class
+com\example\proxy\HttpCache.class
+com\example\proxy\HttpResponseParser.class
+com\example\proxy\ClientHandler.class
+com\example\proxy\CacheKey.class
+com\example\proxy\CachePolicy.class
+com\example\proxy\ProxyServer.class
+com\example\proxy\OriginServerClient.class
+com\example\proxy\RequestCoordinator.class
+com\example\proxy\HttpRequestParser.class
+com\example\proxy\ProxyConfig.class
+com\example\proxy\HttpRequest.class
+com\example\proxy\ProxyException.class
+com\example\proxy\ProxyApplication.class
+com\example\proxy\HttpResponse.class

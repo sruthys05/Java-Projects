@@ -1,0 +1,4 @@
+com\example\proxy\CacheTest.class
+com\example\proxy\ResponseWriterTest.class
+com\example\proxy\ProxyIntegrationTest.class
+com\example\proxy\HttpParsingTest.class
